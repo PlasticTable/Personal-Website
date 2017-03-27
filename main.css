@@ -1,0 +1,21 @@
+/* CSS of my personal website */
+html {
+	height: 100%;
+}
+
+.main-title {
+	width: 100%;
+	text-align: center;
+	font-family: "Calibri", sans-serif;
+	line-height: 10px;
+	text-shadow: 0 1px 3px rgba(0,0,0,.5);
+	margin-top: 300px;
+}
+
+.name {
+	text-align: center;
+	border: 3px solid #000;
+	width: 250px;
+	margin: 0 auto;
+	box-shadow: 0 1px 3px rgba(0,0,0,.5);
+}
