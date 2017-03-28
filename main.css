@@ -15,10 +15,10 @@ p {
 .parallax1, .parallax2, .parallax3 {
 	/* Create the parallax scrolling effect */
 	position: relative;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    	background-attachment: fixed;
+    	background-position: center;
+    	background-repeat: no-repeat;
+    	background-size: cover;
 }
 .main-title {
 	width: 100%;
@@ -47,8 +47,8 @@ p {
 .parallax1 {
 	background-image: url('placeholderimage1.jpg');
 
-    /* Full height */
-    height: 100%; 
+    	/* Full height */
+    	height: 100%; 
 }
 
 .sectionoff1 {
