@@ -45,7 +45,7 @@ p {
 }
 
 .parallax1 {
-	background-image: url('https://plastictable.github.io/Personal-Website/placeholderimage1.jpg');
+	background-image: url('../img/placeholderimage1.jpg');
 
     	/* Full height */
     	height: 100%; 
@@ -59,7 +59,7 @@ p {
 }
 
 .parallax2 {
-	background-image: url('https://plastictable.github.io/Personal-Website/Personal-Website/placeholderimage2.jpg');
+	background-image: url('../img/placeholderimage2.jpg');
 	min-height: 100%;
 }
 
@@ -71,6 +71,6 @@ p {
 }
 
 .parallax3 {
-	background-image: url('https://plastictable.github.io/Personal-Website/Personal-Website/placeholderimage3.jpg');
+	background-image: url('../img/placeholderimage3.jpg');
 	min-height: 100%;
 }
